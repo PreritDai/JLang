@@ -67,8 +67,9 @@ public class LexicalAnalyser {
 
                         }else if (x=='&'){
                             //Value of Variable has ended
-                            pushToken(new Token(rawString, null, ""));
+                            pushToken(new Token(rawString, dataType, ""));
                             pushToken(new Token("&", null, ""));
+                            dataType=null;
                         }
 
                         else if (String.valueOf(x).replaceAll("\\s", "").isEmpty()){
