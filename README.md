@@ -6,8 +6,8 @@ Its syntax is very similar to that of Java. It is a JVM based language.
 Here is a an example source code:<br>
 <hr>
 <h1>String x$="100"&</h1>
-<br>
 <hr>
+<br>
 String is used to indicate the data type of variable, $ is a deliminator used to indicate that a new variable is being declared and & marks the end of value to be assigned for a variable.
 <br>
 
