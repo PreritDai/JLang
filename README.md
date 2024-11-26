@@ -1,5 +1,5 @@
 # JLang
-<h3> Author-Prerit Gautam
+<h3> Author-Prerit Gautam </h3>
 <br>
 A highlevel programming language made in java<br>
 Its syntax is very similar to that of Java. It is a JVM based language.
